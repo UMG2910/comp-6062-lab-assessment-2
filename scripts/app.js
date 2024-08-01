@@ -3,7 +3,7 @@ const app = Vue.createApp({
     // Define the data for the app
     data() {
         return {
-                studentName: 'UMANG',
+                studentName: 'Umang Mistry',
                 pressure: 65,
                 pressureLevels: [
                     { id: 'danger-low', color: 'danger', label: 'Danger - Low!', min: 0, max:10 },
